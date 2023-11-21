@@ -1,3 +1,3 @@
-# boogle_game
+# Boogle (console game)
 
-#you can run it on Makefile
+#you can run it with Makefile
